@@ -26,3 +26,6 @@ power_bi_project/
 4. ├─ scripts/ # Scripts de tratamento e análise de dados
 5. ├─ output/ # Resultados processados (CSV, gráficos, tabelas)
 6. └─ docs/ # Documentos auxiliares (ex.: dicionário de dados)
+
+## Estrutura do Repositório
+Arquivo PowerBI drive[https://drive.google.com/file/d/1McO61Ilh5494QWEIuggCvrPbSw7IUHVO/view?usp=drive_link]
